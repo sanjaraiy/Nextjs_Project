@@ -17,15 +17,15 @@ To get started with the project, follow these steps:
 ### Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/sanjaraiy/Nextjs_Project.git
-    cd musical-project
-    ```
+ ```sh
+ git clone https://github.com/sanjaraiy/Nextjs_Project.git
+ cd musical-project
+ ```
 
 2. Install dependencies:
-    ```sh
-    npm install
-    ```
+ ```sh
+ npm install
+ ```
 
 ### Running the Project
 To run the development server:
@@ -34,9 +34,12 @@ npm run dev
 ```
 
 ## Demo Image 
-<img src="" width="400px" height="300px"/>
+<img src="https://github.com/sanjaraiy/Nextjs_Project/blob/main/public/musicalX.png" width="400px" height="300px"/>
+
 ## 📁 Project Structure
+
 Here is an overview of the project structure:
+
 ```sh
 ├── components    # Reusable components
 ├── pages         # Next.js pages
