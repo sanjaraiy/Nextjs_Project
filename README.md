@@ -1,5 +1,5 @@
 # 🎵 Musical Academy Project
-Welcome to the Musical Project repository! This project is built with HTML, Tailwind CSS, TypeScript, and Next.js. It features dynamic animations using the Framer Motion library and Aceternity UI.
+Welcome to the Musical Academy Project repository! This project is built with HTML, Tailwind CSS, TypeScript, and Next.js. It features dynamic animations using the Framer Motion library and Aceternity UI.
 
 ## ✨ Features
 - **Dynamic Animations**: Leveraging Framer Motion for smooth and engaging animations.
