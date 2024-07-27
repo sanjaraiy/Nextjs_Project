@@ -19,7 +19,7 @@ function page() {
           </div>
         </form>
       </div>
-      <Meteors number={40} />
+      <Meteors number={0}/>
     </div>
   );
 }
